@@ -600,6 +600,10 @@ GitHub 官方也提供了一些 RSS:
 
 <Route author="solstice23" example="/luogu/user/feed/1" path="/luogu/user/feed/:uid" :paramsDesc="['用户 UID']"/>
 
+## 先知社区
+
+<Route author="skyedai910" example="/xianzhi" path="/xianzhi" />
+
 ## 码农俱乐部
 
 ### 话题
